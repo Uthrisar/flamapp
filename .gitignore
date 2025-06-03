@@ -1,0 +1,38 @@
+# Binaries and executables
+**/a.exe
+**/*.o
+**/*.obj
+**/*.class
+
+# Build folders
+**/build/
+**/bin/
+**/out/
+**/.cph/
+
+# C++ generated files
+*.gch
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+gradlew
+gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local config files
+local.properties
+
+# IDE and OS files
+*.iml
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+
+# Results/output folders
+**/results/
+
+# Log files
+*.log
