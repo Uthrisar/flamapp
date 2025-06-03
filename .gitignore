@@ -36,3 +36,27 @@ Thumbs.db
 
 # Log files
 *.log
+
+# Ignore Gradle build folders
+**/build/
+.gradle/
+/gradle-app.setting
+
+# Ignore local configuration
+local.properties
+
+# Android Studio and IntelliJ
+.idea/
+*.iml
+
+# OS Files
+*.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+
+# C++ or other binary files
+**/a.exe
+**/.cph/
+**/results/
